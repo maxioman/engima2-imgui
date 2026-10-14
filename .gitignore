@@ -1,0 +1,6 @@
+*.o
+*.so
+tuner_test
+.DS_Store
+plugin_package/__pycache__/
+*.pyc
